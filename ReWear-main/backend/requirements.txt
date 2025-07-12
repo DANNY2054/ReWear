@@ -1,0 +1,7 @@
+Django>=4.2
+djangorestframework
+python-dotenv
+psycopg2-binary
+django-cors-headers
+cloudinary
+django-cloudinary-storage
