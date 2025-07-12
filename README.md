@@ -30,7 +30,7 @@ Make sure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mohammad-416/ReWear.git
+git clone (https://github.com/DANNY2054/ReWear)
 cd ReWear
 ```
 
